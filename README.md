@@ -1,4 +1,18 @@
+<h1 align="center"> Metric Learning </h1>
+
+
+
+<div align="center">
+  <strong> 📚Explicação do Algoritmo Metric Learning 📚
+</strong>
+</div>
+
+<div align="center">
+  <p> Um repositório teórico que oferece uma explicação teórica detalhada Reconhecimento de Objetos com Metric Learning. desenvolvido por Gustavo Vieira! </p>
+</div>
+
 # Reconhecimento de Objetos com Metric Learning
+
 
 O reconhecimento de objetos em imagens é uma tarefa comum em aplicações modernas de Machine Learning. Diversas áreas dependem da análise e comparação de padrões visuais para validar a semelhança entre pessoas, espécies de animais, produtos, entre outros.
 
